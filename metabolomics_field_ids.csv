@@ -1,0 +1,250 @@
+id,init,desc,abbreviation,category
+23475,f.23475.0.0,Acetate,acetate,ketone body
+23476,f.23476.0.0,Acetoacetate,acetoacetate,ketone body
+23477,f.23477.0.0,Acetone,acetone,ketone body
+23460,f.23460.0.0,Alanine,ala,amino acid
+23479,f.23479.0.0,Albumin,albumin,fluid balance
+23440,f.23440.0.0,Apolipoprotein A1,apoA1,apolipoprotein
+23439,f.23439.0.0,Apolipoprotein B,apoB,apolipoprotein
+23441,f.23441.0.0,Apolipoprotein B to Apolipoprotein A1 ratio,apoB_by_apoA1,apolipoprotein
+23474,f.23474.0.0,3-Hydroxybutyrate,bOHbutyrate,ketone body
+23436,f.23436.0.0,Total Cholines,choline,other
+23473,f.23473.0.0,Citrate,citrate,glycolysis
+23404,f.23404.0.0,Clinical LDL Cholesterol,clinical_LDL,other
+23478,f.23478.0.0,Creatinine,creatinine,fluid balance
+23450,f.23450.0.0,Docosahexaenoic Acid,DHA,fatty acid
+23457,f.23457.0.0,Docosahexaenoic Acid to Total Fatty Acids percentage,DHA_pct,fatty acid
+23461,f.23461.0.0,Glutamine,gln,amino acid
+23470,f.23470.0.0,Glucose,glucose,glycolysis
+23462,f.23462.0.0,Glycine,gly,amino acid
+23480,f.23480.0.0,Glycoprotein Acetyls,glycA,inflammation
+23406,f.23406.0.0,HDL Cholesterol,HDL,lipoprotein class
+23418,f.23418.0.0,Cholesteryl Esters in HDL,HDL_CE,lipoprotein class
+23430,f.23430.0.0,Concentration of HDL Particles,HDL_conc,lipoprotein class
+23422,f.23422.0.0,Free Cholesterol in HDL,HDL_FC,lipoprotein class
+23426,f.23426.0.0,Total Lipids in HDL,HDL_L,lipoprotein class
+23414,f.23414.0.0,Phospholipids in HDL,HDL_PL,lipoprotein class
+23433,f.23433.0.0,Average Diameter for HDL Particles,HDL_size,lipoprotein class
+23410,f.23410.0.0,Triglycerides in HDL,HDL_TG,lipoprotein class
+23463,f.23463.0.0,Histidine,his,amino acid
+23526,f.23526.0.0,Cholesterol in IDL,IDL_C,lipoprotein subclass
+23610,f.23610.0.0,Cholesterol to Total Lipids in IDL percentage,IDL_C_pct,lipoprotein subclass
+23527,f.23527.0.0,Cholesteryl Esters in IDL,IDL_CE,lipoprotein class
+23611,f.23611.0.0,Cholesteryl Esters to Total Lipids in IDL percentage,IDL_CE_pct,lipoprotein subclass
+23523,f.23523.0.0,Concentration of IDL Particles,IDL_conc,lipoprotein subclass
+23528,f.23528.0.0,Free Cholesterol in IDL,IDL_FC,lipoprotein class
+23612,f.23612.0.0,Free Cholesterol to Total Lipids in IDL percentage,IDL_FC_pct,lipoprotein subclass
+23524,f.23524.0.0,Total Lipids in IDL,IDL_L,lipoprotein subclass
+23525,f.23525.0.0,Phospholipids in IDL,IDL_PL,lipoprotein subclass
+23609,f.23609.0.0,Phospholipids to Total Lipids in IDL percentage,IDL_PL_pct,lipoprotein subclass
+23529,f.23529.0.0,Triglycerides in IDL,IDL_TG,lipoprotein subclass
+23613,f.23613.0.0,Triglycerides to Total Lipids in IDL percentage,IDL_TG_pct,lipoprotein subclass
+23465,f.23465.0.0,Isoleucine,ile,amino acid
+23561,f.23561.0.0,Cholesterol in Large HDL,L_HDL_C,lipoprotein subclass
+23635,f.23635.0.0,Cholesterol to Total Lipids in Large HDL percentage,L_HDL_C_pct,lipoprotein subclass
+23562,f.23562.0.0,Cholesteryl Esters in Large HDL,L_HDL_CE,lipoprotein subclass
+23636,f.23636.0.0,Cholesteryl Esters to Total Lipids in Large HDL percentage,L_HDL_CE_pct,lipoprotein subclass
+23558,f.23558.0.0,Concentration of Large HDL Particles,L_HDL_conc,lipoprotein subclass
+23563,f.23563.0.0,Free Cholesterol in Large HDL,L_HDL_FC,lipoprotein subclass
+23637,f.23637.0.0,Free Cholesterol to Total Lipids in Large HDL percentage,L_HDL_FC_pct,lipoprotein subclass
+23559,f.23559.0.0,Total Lipids in Large HDL,L_HDL_L,lipoprotein subclass
+23560,f.23560.0.0,Phospholipids in Large HDL,L_HDL_PL,lipoprotein subclass
+23634,f.23634.0.0,Phospholipids to Total Lipids in Large HDL percentage,L_HDL_PL_pct,lipoprotein subclass
+23564,f.23564.0.0,Triglycerides in Large HDL,L_HDL_TG,lipoprotein subclass
+23638,f.23638.0.0,Triglycerides to Total Lipids in Large HDL percentage,L_HDL_TG_pct,lipoprotein subclass
+23533,f.23533.0.0,Cholesterol in Large LDL,L_LDL_C,lipoprotein subclass
+23615,f.23615.0.0,Cholesterol to Total Lipids in Large LDL percentage,L_LDL_C_pct,lipoprotein subclass
+23534,f.23534.0.0,Cholesteryl Esters in Large LDL,L_LDL_CE,lipoprotein subclass
+23616,f.23616.0.0,Cholesteryl Esters to Total Lipids in Large LDL percentage,L_LDL_CE_pct,lipoprotein subclass
+23530,f.23530.0.0,Concentration of Large LDL Particles,L_LDL_conc,lipoprotein subclass
+23535,f.23535.0.0,Free Cholesterol in Large LDL,L_LDL_FC,lipoprotein subclass
+23617,f.23617.0.0,Free Cholesterol to Total Lipids in Large LDL percentage,L_LDL_FC_pct,lipoprotein subclass
+23531,f.23531.0.0,Total Lipids in Large LDL,L_LDL_L,lipoprotein subclass
+23532,f.23532.0.0,Phospholipids in Large LDL,L_LDL_PL,lipoprotein subclass
+23614,f.23614.0.0,Phospholipids to Total Lipids in Large LDL percentage,L_LDL_PL_pct,lipoprotein subclass
+23536,f.23536.0.0,Triglycerides in Large LDL,L_LDL_TG,lipoprotein subclass
+23618,f.23618.0.0,Triglycerides to Total Lipids in Large LDL percentage,L_LDL_TG_pct,lipoprotein subclass
+23498,f.23498.0.0,Cholesterol in Large VLDL,L_VLDL_C,lipoprotein subclass
+23590,f.23590.0.0,Cholesterol to Total Lipids in Large VLDL percentage,L_VLDL_C_pct,lipoprotein subclass
+23499,f.23499.0.0,Cholesteryl Esters in Large VLDL,L_VLDL_CE,lipoprotein subclass
+23591,f.23591.0.0,Cholesteryl Esters to Total Lipids in Large VLDL percentage,L_VLDL_CE_pct,lipoprotein subclass
+23495,f.23495.0.0,Concentration of Large VLDL Particles,L_VLDL_conc,lipoprotein subclass
+23500,f.23500.0.0,Free Cholesterol in Large VLDL,L_VLDL_FC,lipoprotein subclass
+23592,f.23592.0.0,Free Cholesterol to Total Lipids in Large VLDL percentage,L_VLDL_FC_pct,lipoprotein subclass
+23496,f.23496.0.0,Total Lipids in Large VLDL,L_VLDL_L,lipoprotein subclass
+23497,f.23497.0.0,Phospholipids in Large VLDL,L_VLDL_PL,lipoprotein subclass
+23589,f.23589.0.0,Phospholipids to Total Lipids in Large VLDL percentage,L_VLDL_PL_pct,lipoprotein subclass
+23501,f.23501.0.0,Triglycerides in Large VLDL,L_VLDL_TG,lipoprotein subclass
+23593,f.23593.0.0,Triglycerides to Total Lipids in Large VLDL percentage,L_VLDL_TG_pct,lipoprotein subclass
+23449,f.23449.0.0,Linoleic Acid,LA,fatty acid
+23456,f.23456.0.0,Linoleic Acid to Total Fatty Acids percentage,LA_pct,fatty acid
+23471,f.23471.0.0,Lactate,lactate,glycolysis
+23405,f.23405.0.0,LDL Cholesterol,LDL,lipoprotein class
+23417,f.23417.0.0,Cholesteryl Esters in LDL,LDL_CE,lipoprotein class
+23429,f.23429.0.0,Concentration of LDL Particles,LDL_conc,lipoprotein class
+23421,f.23421.0.0,Free Cholesterol in LDL,LDL_FC,lipoprotein class
+23425,f.23425.0.0,Total Lipids in LDL,LDL_L,lipoprotein class
+23413,f.23413.0.0,Phospholipids in LDL,LDL_PL,lipoprotein class
+23432,f.23432.0.0,Average Diameter for LDL Particles,LDL_size,lipoprotein class
+23409,f.23409.0.0,Triglycerides in LDL,LDL_TG,lipoprotein class
+23466,f.23466.0.0,Leucine,leu,amino acid
+23568,f.23568.0.0,Cholesterol in Medium HDL,M_HDL_C,lipoprotein subclass
+23640,f.23640.0.0,Cholesterol to Total Lipids in Medium HDL percentage,M_HDL_C_pct,lipoprotein subclass
+23569,f.23569.0.0,Cholesteryl Esters in Medium HDL,M_HDL_CE,lipoprotein subclass
+23641,f.23641.0.0,Cholesteryl Esters to Total Lipids in Medium HDL percentage,M_HDL_CE_pct,lipoprotein subclass
+23565,f.23565.0.0,Concentration of Medium HDL Particles,M_HDL_conc,lipoprotein subclass
+23570,f.23570.0.0,Free Cholesterol in Medium HDL,M_HDL_FC,lipoprotein subclass
+23642,f.23642.0.0,Free Cholesterol to Total Lipids in Medium HDL percentage,M_HDL_FC_pct,lipoprotein subclass
+23566,f.23566.0.0,Total Lipids in Medium HDL,M_HDL_L,lipoprotein subclass
+23567,f.23567.0.0,Phospholipids in Medium HDL,M_HDL_PL,lipoprotein subclass
+23639,f.23639.0.0,Phospholipids to Total Lipids in Medium HDL percentage,M_HDL_PL_pct,lipoprotein subclass
+23571,f.23571.0.0,Triglycerides in Medium HDL,M_HDL_TG,lipoprotein subclass
+23643,f.23643.0.0,Triglycerides to Total Lipids in Medium HDL percentage,M_HDL_TG_pct,lipoprotein subclass
+23540,f.23540.0.0,Cholesterol in Medium LDL,M_LDL_C,lipoprotein subclass
+23620,f.23620.0.0,Cholesterol to Total Lipids in Medium LDL percentage,M_LDL_C_pct,lipoprotein subclass
+23541,f.23541.0.0,Cholesteryl Esters in Medium LDL,M_LDL_CE,lipoprotein subclass
+23621,f.23621.0.0,Cholesteryl Esters to Total Lipids in Medium LDL percentage,M_LDL_CE_pct,lipoprotein subclass
+23537,f.23537.0.0,Concentration of Medium LDL Particles,M_LDL_conc,lipoprotein subclass
+23542,f.23542.0.0,Free Cholesterol in Medium LDL,M_LDL_FC,lipoprotein subclass
+23622,f.23622.0.0,Free Cholesterol to Total Lipids in Medium LDL percentage,M_LDL_FC_pct,lipoprotein subclass
+23538,f.23538.0.0,Total Lipids in Medium LDL,M_LDL_L,lipoprotein subclass
+23539,f.23539.0.0,Phospholipids in Medium LDL,M_LDL_PL,lipoprotein subclass
+23619,f.23619.0.0,Phospholipids to Total Lipids in Medium LDL percentage,M_LDL_PL_pct,lipoprotein subclass
+23543,f.23543.0.0,Triglycerides in Medium LDL,M_LDL_TG,lipoprotein subclass
+23623,f.23623.0.0,Triglycerides to Total Lipids in Medium LDL percentage,M_LDL_TG_pct,lipoprotein subclass
+23505,f.23505.0.0,Cholesterol in Medium VLDL,M_VLDL_C,lipoprotein subclass
+23595,f.23595.0.0,Cholesterol to Total Lipids in Medium VLDL percentage,M_VLDL_C_pct,lipoprotein subclass
+23506,f.23506.0.0,Cholesteryl Esters in Medium VLDL,M_VLDL_CE,lipoprotein subclass
+23596,f.23596.0.0,Cholesteryl Esters to Total Lipids in Medium VLDL percentage,M_VLDL_CE_pct,lipoprotein subclass
+23502,f.23502.0.0,Concentration of Medium VLDL Particles,M_VLDL_conc,lipoprotein subclass
+23507,f.23507.0.0,Free Cholesterol in Medium VLDL,M_VLDL_FC,lipoprotein subclass
+23597,f.23597.0.0,Free Cholesterol to Total Lipids in Medium VLDL percentage,M_VLDL_FC_pct,lipoprotein subclass
+23503,f.23503.0.0,Total Lipids in Medium VLDL,M_VLDL_L,lipoprotein subclass
+23504,f.23504.0.0,Phospholipids in Medium VLDL,M_VLDL_PL,lipoprotein subclass
+23594,f.23594.0.0,Phospholipids to Total Lipids in Medium VLDL percentage,M_VLDL_PL_pct,lipoprotein subclass
+23508,f.23508.0.0,Triglycerides in Medium VLDL,M_VLDL_TG,lipoprotein subclass
+23598,f.23598.0.0,Triglycerides to Total Lipids in Medium VLDL percentage,M_VLDL_TG_pct,lipoprotein subclass
+23447,f.23447.0.0,Monounsaturated Fatty Acids,MUFA,fatty acid
+23454,f.23454.0.0,Monounsaturated Fatty Acids to Total Fatty Acids percentage,MUFA_pct,fatty acid
+23401,f.23401.0.0,Total Cholesterol Minus HDL-C,non_HDL_C,total lipid
+23444,f.23444.0.0,Omega-3 Fatty Acids,omega_3,fatty acid
+23451,f.23451.0.0,Omega-3 Fatty Acids to Total Fatty Acids percentage,omega_3_pct,fatty acid
+23445,f.23445.0.0,Omega-6 Fatty Acids,omega_6,fatty acid
+23459,f.23459.0.0,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio,omega_6_by_omega_3,fatty acid
+23452,f.23452.0.0,Omega-6 Fatty Acids to Total Fatty Acids percentage,omega_6_pct,fatty acid
+23468,f.23468.0.0,Phenylalanine,phe,amino acid
+23437,f.23437.0.0,Phosphatidylcholines,phosphatidylc,other
+23434,f.23434.0.0,Phosphoglycerides,phosphoglyc,other
+23446,f.23446.0.0,Polyunsaturated Fatty Acids,PUFA,fatty acid
+23458,f.23458.0.0,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio,PUFA_by_MUFA,fatty acid
+23453,f.23453.0.0,Polyunsaturated Fatty Acids to Total Fatty Acids percentage,PUFA_pct,fatty acid
+23472,f.23472.0.0,Pyruvate,pyruvate,glycolysis
+23402,f.23402.0.0,Remnant Cholesterol (Non-HDL and Non-LDL -Cholesterol),remnant_C,other
+23575,f.23575.0.0,Cholesterol in Small HDL,S_HDL_C,lipoprotein subclass
+23645,f.23645.0.0,Cholesterol to Total Lipids in Small HDL percentage,S_HDL_C_pct,lipoprotein subclass
+23576,f.23576.0.0,Cholesteryl Esters in Small HDL,S_HDL_CE,lipoprotein subclass
+23646,f.23646.0.0,Cholesteryl Esters to Total Lipids in Small HDL percentage,S_HDL_CE_pct,lipoprotein subclass
+23572,f.23572.0.0,Concentration of Small HDL Particles,S_HDL_conc,lipoprotein subclass
+23577,f.23577.0.0,Free Cholesterol in Small HDL,S_HDL_FC,lipoprotein subclass
+23647,f.23647.0.0,Free Cholesterol to Total Lipids in Small HDL percentage,S_HDL_FC_pct,lipoprotein subclass
+23573,f.23573.0.0,Total Lipids in Small HDL,S_HDL_L,lipoprotein subclass
+23574,f.23574.0.0,Phospholipids in Small HDL,S_HDL_PL,lipoprotein subclass
+23644,f.23644.0.0,Phospholipids to Total Lipids in Small HDL percentage,S_HDL_PL_pct,lipoprotein subclass
+23578,f.23578.0.0,Triglycerides in Small HDL,S_HDL_TG,lipoprotein subclass
+23648,f.23648.0.0,Triglycerides to Total Lipids in Small HDL percentage,S_HDL_TG_pct,lipoprotein subclass
+23547,f.23547.0.0,Cholesterol in Small LDL,S_LDL_C,lipoprotein subclass
+23625,f.23625.0.0,Cholesterol to Total Lipids in Small LDL percentage,S_LDL_C_pct,lipoprotein subclass
+23548,f.23548.0.0,Cholesteryl Esters in Small LDL,S_LDL_CE,lipoprotein subclass
+23626,f.23626.0.0,Cholesteryl Esters to Total Lipids in Small LDL percentage,S_LDL_CE_pct,lipoprotein subclass
+23544,f.23544.0.0,Concentration of Small LDL Particles,S_LDL_conc,lipoprotein subclass
+23549,f.23549.0.0,Free Cholesterol in Small LDL,S_LDL_FC,lipoprotein subclass
+23627,f.23627.0.0,Free Cholesterol to Total Lipids in Small LDL percentage,S_LDL_FC_pct,lipoprotein subclass
+23545,f.23545.0.0,Total Lipids in Small LDL,S_LDL_L,lipoprotein subclass
+23546,f.23546.0.0,Phospholipids in Small LDL,S_LDL_PL,lipoprotein subclass
+23624,f.23624.0.0,Phospholipids to Total Lipids in Small LDL percentage,S_LDL_PL_pct,lipoprotein subclass
+23550,f.23550.0.0,Triglycerides in Small LDL,S_LDL_TG,lipoprotein subclass
+23628,f.23628.0.0,Triglycerides to Total Lipids in Small LDL percentage,S_LDL_TG_pct,lipoprotein subclass
+23512,f.23512.0.0,Cholesterol in Small VLDL,S_VLDL_C,lipoprotein subclass
+23600,f.23600.0.0,Cholesterol to Total Lipids in Small VLDL percentage,S_VLDL_C_pct,lipoprotein subclass
+23513,f.23513.0.0,Cholesteryl Esters in Small VLDL,S_VLDL_CE,lipoprotein subclass
+23601,f.23601.0.0,Cholesteryl Esters to Total Lipids in Small VLDL percentage,S_VLDL_CE_pct,lipoprotein subclass
+23509,f.23509.0.0,Concentration of Small VLDL Particles,S_VLDL_conc,lipoprotein subclass
+23514,f.23514.0.0,Free Cholesterol in Small VLDL,S_VLDL_FC,lipoprotein subclass
+23602,f.23602.0.0,Free Cholesterol to Total Lipids in Small VLDL percentage,S_VLDL_FC_pct,lipoprotein subclass
+23510,f.23510.0.0,Total Lipids in Small VLDL,S_VLDL_L,lipoprotein subclass
+23511,f.23511.0.0,Phospholipids in Small VLDL,S_VLDL_PL,lipoprotein subclass
+23599,f.23599.0.0,Phospholipids to Total Lipids in Small VLDL percentage,S_VLDL_PL_pct,lipoprotein subclass
+23515,f.23515.0.0,Triglycerides in Small VLDL,S_VLDL_TG,lipoprotein subclass
+23603,f.23603.0.0,Triglycerides to Total Lipids in Small VLDL percentage,S_VLDL_TG_pct,lipoprotein subclass
+23448,f.23448.0.0,Saturated Fatty Acids,SFA,fatty acid
+23455,f.23455.0.0,Saturated Fatty Acids to Total Fatty Acids percentage,SFA_pct,fatty acid
+23438,f.23438.0.0,Sphingomyelins,sphingomyelin,other
+23435,f.23435.0.0,Triglycerides to Phosphoglycerides ratio,TG_by_phosphoglyc,other
+23464,f.23464.0.0,Total Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine),total_BCAA,amino acid
+23400,f.23400.0.0,Total Cholesterol,total_C,total lipid
+23415,f.23415.0.0,Total Esterified Cholesterol,total_CE,total lipid
+23442,f.23442.0.0,Total Fatty Acids,total_FA,total lipid
+23419,f.23419.0.0,Total Free Cholesterol,total_FC,total lipid
+23423,f.23423.0.0,Total Lipids in Lipoprotein Particles,total_L,total lipid
+23427,f.23427.0.0,Total Concentration of Lipoprotein Particles,total_P,total lipid
+23411,f.23411.0.0,Total Phospholipids in Lipoprotein Particles,total_PL,total lipid
+23407,f.23407.0.0,Total Triglycerides,total_TG,total lipid
+23469,f.23469.0.0,Tyrosine,tyr,amino acid
+23443,f.23443.0.0,Degree of Unsaturation,unsaturation,fatty acid
+23467,f.23467.0.0,Valine,val,amino acid
+23403,f.23403.0.0,VLDL Cholesterol,VLDL,lipoprotein subclass
+23416,f.23416.0.0,Cholesteryl Esters in VLDL,VLDL_CE,lipoprotein subclass
+23428,f.23428.0.0,Concentration of VLDL Particles,VLDL_conc,lipoprotein subclass
+23420,f.23420.0.0,Free Cholesterol in VLDL,VLDL_FC,lipoprotein subclass
+23424,f.23424.0.0,Total Lipids in VLDL,VLDL_L,lipoprotein subclass
+23412,f.23412.0.0,Phospholipids in VLDL,VLDL_PL,lipoprotein subclass
+23431,f.23431.0.0,Average Diameter for VLDL Particles,VLDL_size,lipoprotein class
+23408,f.23408.0.0,Triglycerides in VLDL,VLDL_TG,lipoprotein subclass
+23554,f.23554.0.0,Cholesterol in Very Large HDL,XL_HDL_C,lipoprotein subclass
+23630,f.23630.0.0,Cholesterol to Total Lipids in Very Large HDL percentage,XL_HDL_C_pct,lipoprotein subclass
+23585,f.23585.0.0,Cholesterol to Total Lipids in Very Large VLDL percentage,XL_VLDL_C_pct,lipoprotein subclass
+23555,f.23555.0.0,Cholesteryl Esters in Very Large HDL,XL_HDL_CE,lipoprotein subclass
+23631,f.23631.0.0,Cholesteryl Esters to Total Lipids in Very Large HDL percentage,XL_HDL_CE_pct,lipoprotein subclass
+23551,f.23551.0.0,Concentration of Very Large HDL Particles,XL_HDL_conc,lipoprotein subclass
+23556,f.23556.0.0,Free Cholesterol in Very Large HDL,XL_HDL_FC,lipoprotein subclass
+23632,f.23632.0.0,Free Cholesterol to Total Lipids in Very Large HDL percentage,XL_HDL_FC_pct,lipoprotein subclass
+23552,f.23552.0.0,Total Lipids in Very Large HDL,XL_HDL_L,lipoprotein subclass
+23553,f.23553.0.0,Phospholipids in Very Large HDL,XL_HDL_PL,lipoprotein subclass
+23629,f.23629.0.0,Phospholipids to Total Lipids in Very Large HDL percentage,XL_HDL_PL_pct,lipoprotein subclass
+23633,f.23633.0.0,Triglycerides to Total Lipids in Very Large HDL percentage,XL_HDL_TG_pct,lipoprotein subclass
+23491,f.23491.0.0,Cholesterol in Very Large VLDL,XL_VLDL_C,lipoprotein subclass
+23492,f.23492.0.0,Cholesteryl Esters in Very Large VLDL,XL_VLDL_CE,lipoprotein subclass
+23586,f.23586.0.0,Cholesteryl Esters to Total Lipids in Very Large VLDL percentage,XL_VLDL_CE_pct,lipoprotein subclass
+23488,f.23488.0.0,Concentration of Very Large VLDL Particles,XL_VLDL_conc,lipoprotein subclass
+23493,f.23493.0.0,Free Cholesterol in Very Large VLDL,XL_VLDL_FC,lipoprotein subclass
+23587,f.23587.0.0,Free Cholesterol to Total Lipids in Very Large VLDL percentage,XL_VLDL_FC_pct,lipoprotein subclass
+23489,f.23489.0.0,Total Lipids in Very Large VLDL,XL_VLDL_L,lipoprotein subclass
+23490,f.23490.0.0,Phospholipids in Very Large VLDL,XL_VLDL_PL,lipoprotein subclass
+23584,f.23584.0.0,Phospholipids to Total Lipids in Very Large VLDL percentage,XL_VLDL_PL_pct,lipoprotein subclass
+23557,f.23557.0.0,Triglycerides in Very Large HDL,XL_HDL_TG,lipoprotein subclass
+23494,f.23494.0.0,Triglycerides in Very Large VLDL,XL_VLDL_TG,lipoprotein subclass
+23588,f.23588.0.0,Triglycerides to Total Lipids in Very Large VLDL percentage,XL_VLDL_TG_pct,lipoprotein subclass
+23519,f.23519.0.0,Cholesterol in Very Small VLDL,XS_VLDL_C,lipoprotein subclass
+23605,f.23605.0.0,Cholesterol to Total Lipids in Very Small VLDL percentage,XS_VLDL_C_pct,lipoprotein subclass
+23520,f.23520.0.0,Cholesteryl Esters in Very Small VLDL,XS_VLDL_CE,lipoprotein subclass
+23606,f.23606.0.0,Cholesteryl Esters to Total Lipids in Very Small VLDL percentage,XS_VLDL_CE_pct,lipoprotein subclass
+23516,f.23516.0.0,Concentration of Very Small VLDL Particles,XS_VLDL_conc,lipoprotein subclass
+23521,f.23521.0.0,Free Cholesterol in Very Small VLDL,XS_VLDL_FC,lipoprotein subclass
+23607,f.23607.0.0,Free Cholesterol to Total Lipids in Very Small VLDL percentage,XS_VLDL_FC_pct,lipoprotein subclass
+23517,f.23517.0.0,Total Lipids in Very Small VLDL,XS_VLDL_L,lipoprotein subclass
+23518,f.23518.0.0,Phospholipids in Very Small VLDL,XS_VLDL_PL,lipoprotein subclass
+23604,f.23604.0.0,Phospholipids to Total Lipids in Very Small VLDL percentage,XS_VLDL_PL_pct,lipoprotein subclass
+23522,f.23522.0.0,Triglycerides in Very Small VLDL,XS_VLDL_TG,lipoprotein subclass
+23608,f.23608.0.0,Triglycerides to Total Lipids in Very Small VLDL percentage,XS_VLDL_TG_pct,lipoprotein subclass
+23484,f.23484.0.0,Cholesterol in Chylomicrons and Extremely Large VLDL,XXL_VLDL_C,lipoprotein subclass
+23580,f.23580.0.0,Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,XXL_VLDL_C_pct,lipoprotein subclass
+23485,f.23485.0.0,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL,XXL_VLDL_CE,lipoprotein subclass
+23581,f.23581.0.0,Cholesteryl Esters to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,XXL_VLDL_CE_pct,lipoprotein subclass
+23481,f.23481.0.0,Concentration of Chylomicrons and Extremely Large VLDL Particles,XXL_VLDL_conc,lipoprotein subclass
+23486,f.23486.0.0,Free Cholesterol in Chylomicrons and Extremely Large VLDL,XXL_VLDL_FC,lipoprotein subclass
+23582,f.23582.0.0,Free Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,XXL_VLDL_FC_pct,lipoprotein subclass
+23482,f.23482.0.0,Total Lipids in Chylomicrons and Extremely Large VLDL,XXL_VLDL_L,lipoprotein subclass
+23483,f.23483.0.0,Phospholipids in Chylomicrons and Extremely Large VLDL,XXL_VLDL_PL,lipoprotein subclass
+23579,f.23579.0.0,Phospholipids to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,XXL_VLDL_PL_pct,lipoprotein subclass
+23487,f.23487.0.0,Triglycerides in Chylomicrons and Extremely Large VLDL,XXL_VLDL_TG,lipoprotein subclass
+23583,f.23583.0.0,Triglycerides to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,XXL_VLDL_TG_pct,lipoprotein subclass
