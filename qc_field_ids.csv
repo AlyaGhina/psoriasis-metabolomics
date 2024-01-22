@@ -1,0 +1,250 @@
+﻿qc_id,qc_desc,met_id,met_desc,desc_same,id_same
+23774,3-Hydroxybutyrate,23474,3-Hydroxybutyrate,TRUE,300
+23775,Acetate,23475,Acetate,TRUE,300
+23776,Acetoacetate,23476,Acetoacetate,TRUE,300
+23777,Acetone,23477,Acetone,TRUE,300
+23760,Alanine,23460,Alanine,TRUE,300
+23779,Albumin,23479,Albumin,TRUE,300
+23740,Apolipoprotein A1,23440,Apolipoprotein A1,TRUE,300
+23739,Apolipoprotein B,23439,Apolipoprotein B,TRUE,300
+23741,Apolipoprotein B to Apolipoprotein A1 ratio,23441,Apolipoprotein B to Apolipoprotein A1 ratio,TRUE,300
+23733,Average Diameter for HDL Particles,23433,Average Diameter for HDL Particles,TRUE,300
+23732,Average Diameter for LDL Particles,23432,Average Diameter for LDL Particles,TRUE,300
+23731,Average Diameter for VLDL Particles,23431,Average Diameter for VLDL Particles,TRUE,300
+23784,Cholesterol in Chylomicrons and Extremely Large VLDL,23484,Cholesterol in Chylomicrons and Extremely Large VLDL,TRUE,300
+23826,Cholesterol in IDL,23526,Cholesterol in IDL,TRUE,300
+23861,Cholesterol in Large HDL,23561,Cholesterol in Large HDL,TRUE,300
+23833,Cholesterol in Large LDL,23533,Cholesterol in Large LDL,TRUE,300
+23798,Cholesterol in Large VLDL,23498,Cholesterol in Large VLDL,TRUE,300
+23868,Cholesterol in Medium HDL,23568,Cholesterol in Medium HDL,TRUE,300
+23840,Cholesterol in Medium LDL,23540,Cholesterol in Medium LDL,TRUE,300
+23805,Cholesterol in Medium VLDL,23505,Cholesterol in Medium VLDL,TRUE,300
+23875,Cholesterol in Small HDL,23575,Cholesterol in Small HDL,TRUE,300
+23847,Cholesterol in Small LDL,23547,Cholesterol in Small LDL,TRUE,300
+23812,Cholesterol in Small VLDL,23512,Cholesterol in Small VLDL,TRUE,300
+23854,Cholesterol in Very Large HDL,23554,Cholesterol in Very Large HDL,TRUE,300
+23791,Cholesterol in Very Large VLDL,23491,Cholesterol in Very Large VLDL,TRUE,300
+23819,Cholesterol in Very Small VLDL,23519,Cholesterol in Very Small VLDL,TRUE,300
+23880,Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,23580,Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,TRUE,300
+23910,Cholesterol to Total Lipids in IDL percentage,23610,Cholesterol to Total Lipids in IDL percentage,TRUE,300
+23935,Cholesterol to Total Lipids in Large HDL percentage,23635,Cholesterol to Total Lipids in Large HDL percentage,TRUE,300
+23915,Cholesterol to Total Lipids in Large LDL percentage,23615,Cholesterol to Total Lipids in Large LDL percentage,TRUE,300
+23890,Cholesterol to Total Lipids in Large VLDL percentage,23590,Cholesterol to Total Lipids in Large VLDL percentage,TRUE,300
+23940,Cholesterol to Total Lipids in Medium HDL percentage,23640,Cholesterol to Total Lipids in Medium HDL percentage,TRUE,300
+23920,Cholesterol to Total Lipids in Medium LDL percentage,23620,Cholesterol to Total Lipids in Medium LDL percentage,TRUE,300
+23895,Cholesterol to Total Lipids in Medium VLDL percentage,23595,Cholesterol to Total Lipids in Medium VLDL percentage,TRUE,300
+23945,Cholesterol to Total Lipids in Small HDL percentage,23645,Cholesterol to Total Lipids in Small HDL percentage,TRUE,300
+23925,Cholesterol to Total Lipids in Small LDL percentage,23625,Cholesterol to Total Lipids in Small LDL percentage,TRUE,300
+23900,Cholesterol to Total Lipids in Small VLDL percentage,23600,Cholesterol to Total Lipids in Small VLDL percentage,TRUE,300
+23930,Cholesterol to Total Lipids in Very Large HDL percentage,23630,Cholesterol to Total Lipids in Very Large HDL percentage,TRUE,300
+23885,Cholesterol to Total Lipids in Very Large VLDL percentage,23585,Cholesterol to Total Lipids in Very Large VLDL percentage,TRUE,300
+23905,Cholesterol to Total Lipids in Very Small VLDL percentage,23605,Cholesterol to Total Lipids in Very Small VLDL percentage,TRUE,300
+23785,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL,23485,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL,TRUE,300
+23718,Cholesteryl Esters in HDL,23418,Cholesteryl Esters in HDL,TRUE,300
+23827,Cholesteryl Esters in IDL,23527,Cholesteryl Esters in IDL,TRUE,300
+23862,Cholesteryl Esters in Large HDL,23562,Cholesteryl Esters in Large HDL,TRUE,300
+23834,Cholesteryl Esters in Large LDL,23534,Cholesteryl Esters in Large LDL,TRUE,300
+23799,Cholesteryl Esters in Large VLDL,23499,Cholesteryl Esters in Large VLDL,TRUE,300
+23717,Cholesteryl Esters in LDL,23417,Cholesteryl Esters in LDL,TRUE,300
+23869,Cholesteryl Esters in Medium HDL,23569,Cholesteryl Esters in Medium HDL,TRUE,300
+23841,Cholesteryl Esters in Medium LDL,23541,Cholesteryl Esters in Medium LDL,TRUE,300
+23806,Cholesteryl Esters in Medium VLDL,23506,Cholesteryl Esters in Medium VLDL,TRUE,300
+23876,Cholesteryl Esters in Small HDL,23576,Cholesteryl Esters in Small HDL,TRUE,300
+23848,Cholesteryl Esters in Small LDL,23548,Cholesteryl Esters in Small LDL,TRUE,300
+23813,Cholesteryl Esters in Small VLDL,23513,Cholesteryl Esters in Small VLDL,TRUE,300
+23855,Cholesteryl Esters in Very Large HDL,23555,Cholesteryl Esters in Very Large HDL,TRUE,300
+23792,Cholesteryl Esters in Very Large VLDL,23492,Cholesteryl Esters in Very Large VLDL,TRUE,300
+23820,Cholesteryl Esters in Very Small VLDL,23520,Cholesteryl Esters in Very Small VLDL,TRUE,300
+23716,Cholesteryl Esters in VLDL,23416,Cholesteryl Esters in VLDL,TRUE,300
+23881,Cholesteryl Esters to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,23581,Cholesteryl Esters to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,TRUE,300
+23911,Cholesteryl Esters to Total Lipids in IDL percentage,23611,Cholesteryl Esters to Total Lipids in IDL percentage,TRUE,300
+23936,Cholesteryl Esters to Total Lipids in Large HDL percentage,23636,Cholesteryl Esters to Total Lipids in Large HDL percentage,TRUE,300
+23916,Cholesteryl Esters to Total Lipids in Large LDL percentage,23616,Cholesteryl Esters to Total Lipids in Large LDL percentage,TRUE,300
+23891,Cholesteryl Esters to Total Lipids in Large VLDL percentage,23591,Cholesteryl Esters to Total Lipids in Large VLDL percentage,TRUE,300
+23941,Cholesteryl Esters to Total Lipids in Medium HDL percentage,23641,Cholesteryl Esters to Total Lipids in Medium HDL percentage,TRUE,300
+23921,Cholesteryl Esters to Total Lipids in Medium LDL percentage,23621,Cholesteryl Esters to Total Lipids in Medium LDL percentage,TRUE,300
+23896,Cholesteryl Esters to Total Lipids in Medium VLDL percentage,23596,Cholesteryl Esters to Total Lipids in Medium VLDL percentage,TRUE,300
+23946,Cholesteryl Esters to Total Lipids in Small HDL percentage,23646,Cholesteryl Esters to Total Lipids in Small HDL percentage,TRUE,300
+23926,Cholesteryl Esters to Total Lipids in Small LDL percentage,23626,Cholesteryl Esters to Total Lipids in Small LDL percentage,TRUE,300
+23901,Cholesteryl Esters to Total Lipids in Small VLDL percentage,23601,Cholesteryl Esters to Total Lipids in Small VLDL percentage,TRUE,300
+23931,Cholesteryl Esters to Total Lipids in Very Large HDL percentage,23631,Cholesteryl Esters to Total Lipids in Very Large HDL percentage,TRUE,300
+23886,Cholesteryl Esters to Total Lipids in Very Large VLDL percentage,23586,Cholesteryl Esters to Total Lipids in Very Large VLDL percentage,TRUE,300
+23906,Cholesteryl Esters to Total Lipids in Very Small VLDL percentage,23606,Cholesteryl Esters to Total Lipids in Very Small VLDL percentage,TRUE,300
+23773,Citrate,23473,Citrate,TRUE,300
+23704,Clinical LDL Cholesterol,23404,Clinical LDL Cholesterol,TRUE,300
+23781,Concentration of Chylomicrons and Extremely Large VLDL Particles,23481,Concentration of Chylomicrons and Extremely Large VLDL Particles,TRUE,300
+23730,Concentration of HDL Particles,23430,Concentration of HDL Particles,TRUE,300
+23823,Concentration of IDL Particles,23523,Concentration of IDL Particles,TRUE,300
+23858,Concentration of Large HDL Particles,23558,Concentration of Large HDL Particles,TRUE,300
+23830,Concentration of Large LDL Particles,23530,Concentration of Large LDL Particles,TRUE,300
+23795,Concentration of Large VLDL Particles,23495,Concentration of Large VLDL Particles,TRUE,300
+23729,Concentration of LDL Particles,23429,Concentration of LDL Particles,TRUE,300
+23865,Concentration of Medium HDL Particles,23565,Concentration of Medium HDL Particles,TRUE,300
+23837,Concentration of Medium LDL Particles,23537,Concentration of Medium LDL Particles,TRUE,300
+23802,Concentration of Medium VLDL Particles,23502,Concentration of Medium VLDL Particles,TRUE,300
+23872,Concentration of Small HDL Particles,23572,Concentration of Small HDL Particles,TRUE,300
+23844,Concentration of Small LDL Particles,23544,Concentration of Small LDL Particles,TRUE,300
+23809,Concentration of Small VLDL Particles,23509,Concentration of Small VLDL Particles,TRUE,300
+23851,Concentration of Very Large HDL Particles,23551,Concentration of Very Large HDL Particles,TRUE,300
+23788,Concentration of Very Large VLDL Particles,23488,Concentration of Very Large VLDL Particles,TRUE,300
+23816,Concentration of Very Small VLDL Particles,23516,Concentration of Very Small VLDL Particles,TRUE,300
+23728,Concentration of VLDL Particles,23428,Concentration of VLDL Particles,TRUE,300
+23778,Creatinine,23478,Creatinine,TRUE,300
+23743,Degree of Unsaturation,23443,Degree of Unsaturation,TRUE,300
+23750,Docosahexaenoic Acid,23450,Docosahexaenoic Acid,TRUE,300
+23757,Docosahexaenoic Acid to Total Fatty Acids percentage,23457,Docosahexaenoic Acid to Total Fatty Acids percentage,TRUE,300
+23786,Free Cholesterol in Chylomicrons and Extremely Large VLDL,23486,Free Cholesterol in Chylomicrons and Extremely Large VLDL,TRUE,300
+23722,Free Cholesterol in HDL,23422,Free Cholesterol in HDL,TRUE,300
+23828,Free Cholesterol in IDL,23528,Free Cholesterol in IDL,TRUE,300
+23863,Free Cholesterol in Large HDL,23563,Free Cholesterol in Large HDL,TRUE,300
+23835,Free Cholesterol in Large LDL,23535,Free Cholesterol in Large LDL,TRUE,300
+23800,Free Cholesterol in Large VLDL,23500,Free Cholesterol in Large VLDL,TRUE,300
+23721,Free Cholesterol in LDL,23421,Free Cholesterol in LDL,TRUE,300
+23870,Free Cholesterol in Medium HDL,23570,Free Cholesterol in Medium HDL,TRUE,300
+23842,Free Cholesterol in Medium LDL,23542,Free Cholesterol in Medium LDL,TRUE,300
+23807,Free Cholesterol in Medium VLDL,23507,Free Cholesterol in Medium VLDL,TRUE,300
+23877,Free Cholesterol in Small HDL,23577,Free Cholesterol in Small HDL,TRUE,300
+23849,Free Cholesterol in Small LDL,23549,Free Cholesterol in Small LDL,TRUE,300
+23814,Free Cholesterol in Small VLDL,23514,Free Cholesterol in Small VLDL,TRUE,300
+23856,Free Cholesterol in Very Large HDL,23556,Free Cholesterol in Very Large HDL,TRUE,300
+23793,Free Cholesterol in Very Large VLDL,23493,Free Cholesterol in Very Large VLDL,TRUE,300
+23821,Free Cholesterol in Very Small VLDL,23521,Free Cholesterol in Very Small VLDL,TRUE,300
+23720,Free Cholesterol in VLDL,23420,Free Cholesterol in VLDL,TRUE,300
+23882,Free Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,23582,Free Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,TRUE,300
+23912,Free Cholesterol to Total Lipids in IDL percentage,23612,Free Cholesterol to Total Lipids in IDL percentage,TRUE,300
+23937,Free Cholesterol to Total Lipids in Large HDL percentage,23637,Free Cholesterol to Total Lipids in Large HDL percentage,TRUE,300
+23917,Free Cholesterol to Total Lipids in Large LDL percentage,23617,Free Cholesterol to Total Lipids in Large LDL percentage,TRUE,300
+23892,Free Cholesterol to Total Lipids in Large VLDL percentage,23592,Free Cholesterol to Total Lipids in Large VLDL percentage,TRUE,300
+23942,Free Cholesterol to Total Lipids in Medium HDL percentage,23642,Free Cholesterol to Total Lipids in Medium HDL percentage,TRUE,300
+23922,Free Cholesterol to Total Lipids in Medium LDL percentage,23622,Free Cholesterol to Total Lipids in Medium LDL percentage,TRUE,300
+23897,Free Cholesterol to Total Lipids in Medium VLDL percentage,23597,Free Cholesterol to Total Lipids in Medium VLDL percentage,TRUE,300
+23947,Free Cholesterol to Total Lipids in Small HDL percentage,23647,Free Cholesterol to Total Lipids in Small HDL percentage,TRUE,300
+23927,Free Cholesterol to Total Lipids in Small LDL percentage,23627,Free Cholesterol to Total Lipids in Small LDL percentage,TRUE,300
+23902,Free Cholesterol to Total Lipids in Small VLDL percentage,23602,Free Cholesterol to Total Lipids in Small VLDL percentage,TRUE,300
+23932,Free Cholesterol to Total Lipids in Very Large HDL percentage,23632,Free Cholesterol to Total Lipids in Very Large HDL percentage,TRUE,300
+23887,Free Cholesterol to Total Lipids in Very Large VLDL percentage,23587,Free Cholesterol to Total Lipids in Very Large VLDL percentage,TRUE,300
+23907,Free Cholesterol to Total Lipids in Very Small VLDL percentage,23607,Free Cholesterol to Total Lipids in Very Small VLDL percentage,TRUE,300
+23770,Glucose,23470,Glucose,TRUE,300
+23761,Glutamine,23461,Glutamine,TRUE,300
+23762,Glycine,23462,Glycine,TRUE,300
+23780,Glycoprotein Acetyls,23480,Glycoprotein Acetyls,TRUE,300
+23706,HDL Cholesterol,23406,HDL Cholesterol,TRUE,300
+23763,Histidine,23463,Histidine,TRUE,300
+23765,Isoleucine,23465,Isoleucine,TRUE,300
+23771,Lactate,23471,Lactate,TRUE,300
+23705,LDL Cholesterol,23405,LDL Cholesterol,TRUE,300
+23766,Leucine,23466,Leucine,TRUE,300
+23749,Linoleic Acid,23449,Linoleic Acid,TRUE,300
+23756,Linoleic Acid to Total Fatty Acids percentage,23456,Linoleic Acid to Total Fatty Acids percentage,TRUE,300
+23747,Monounsaturated Fatty Acids,23447,Monounsaturated Fatty Acids,TRUE,300
+23754,Monounsaturated Fatty Acids to Total Fatty Acids percentage,23454,Monounsaturated Fatty Acids to Total Fatty Acids percentage,TRUE,300
+23744,Omega-3 Fatty Acids,23444,Omega-3 Fatty Acids,TRUE,300
+23751,Omega-3 Fatty Acids to Total Fatty Acids percentage,23451,Omega-3 Fatty Acids to Total Fatty Acids percentage,TRUE,300
+23745,Omega-6 Fatty Acids,23445,Omega-6 Fatty Acids,TRUE,300
+23759,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio,23459,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio,TRUE,300
+23752,Omega-6 Fatty Acids to Total Fatty Acids percentage,23452,Omega-6 Fatty Acids to Total Fatty Acids percentage,TRUE,300
+23768,Phenylalanine,23468,Phenylalanine,TRUE,300
+23737,Phosphatidylcholines,23437,Phosphatidylcholines,TRUE,300
+23734,Phosphoglycerides,23434,Phosphoglycerides,TRUE,300
+23783,Phospholipids in Chylomicrons and Extremely Large VLDL,23483,Phospholipids in Chylomicrons and Extremely Large VLDL,TRUE,300
+23714,Phospholipids in HDL,23414,Phospholipids in HDL,TRUE,300
+23825,Phospholipids in IDL,23525,Phospholipids in IDL,TRUE,300
+23860,Phospholipids in Large HDL,23560,Phospholipids in Large HDL,TRUE,300
+23832,Phospholipids in Large LDL,23532,Phospholipids in Large LDL,TRUE,300
+23797,Phospholipids in Large VLDL,23497,Phospholipids in Large VLDL,TRUE,300
+23713,Phospholipids in LDL,23413,Phospholipids in LDL,TRUE,300
+23867,Phospholipids in Medium HDL,23567,Phospholipids in Medium HDL,TRUE,300
+23839,Phospholipids in Medium LDL,23539,Phospholipids in Medium LDL,TRUE,300
+23804,Phospholipids in Medium VLDL,23504,Phospholipids in Medium VLDL,TRUE,300
+23874,Phospholipids in Small HDL,23574,Phospholipids in Small HDL,TRUE,300
+23846,Phospholipids in Small LDL,23546,Phospholipids in Small LDL,TRUE,300
+23811,Phospholipids in Small VLDL,23511,Phospholipids in Small VLDL,TRUE,300
+23853,Phospholipids in Very Large HDL,23553,Phospholipids in Very Large HDL,TRUE,300
+23790,Phospholipids in Very Large VLDL,23490,Phospholipids in Very Large VLDL,TRUE,300
+23818,Phospholipids in Very Small VLDL,23518,Phospholipids in Very Small VLDL,TRUE,300
+23712,Phospholipids in VLDL,23412,Phospholipids in VLDL,TRUE,300
+23879,Phospholipids to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,23579,Phospholipids to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,TRUE,300
+23909,Phospholipids to Total Lipids in IDL percentage,23609,Phospholipids to Total Lipids in IDL percentage,TRUE,300
+23934,Phospholipids to Total Lipids in Large HDL percentage,23634,Phospholipids to Total Lipids in Large HDL percentage,TRUE,300
+23914,Phospholipids to Total Lipids in Large LDL percentage,23614,Phospholipids to Total Lipids in Large LDL percentage,TRUE,300
+23889,Phospholipids to Total Lipids in Large VLDL percentage,23589,Phospholipids to Total Lipids in Large VLDL percentage,TRUE,300
+23939,Phospholipids to Total Lipids in Medium HDL percentage,23639,Phospholipids to Total Lipids in Medium HDL percentage,TRUE,300
+23919,Phospholipids to Total Lipids in Medium LDL percentage,23619,Phospholipids to Total Lipids in Medium LDL percentage,TRUE,300
+23894,Phospholipids to Total Lipids in Medium VLDL percentage,23594,Phospholipids to Total Lipids in Medium VLDL percentage,TRUE,300
+23944,Phospholipids to Total Lipids in Small HDL percentage,23644,Phospholipids to Total Lipids in Small HDL percentage,TRUE,300
+23924,Phospholipids to Total Lipids in Small LDL percentage,23624,Phospholipids to Total Lipids in Small LDL percentage,TRUE,300
+23899,Phospholipids to Total Lipids in Small VLDL percentage,23599,Phospholipids to Total Lipids in Small VLDL percentage,TRUE,300
+23929,Phospholipids to Total Lipids in Very Large HDL percentage,23629,Phospholipids to Total Lipids in Very Large HDL percentage,TRUE,300
+23884,Phospholipids to Total Lipids in Very Large VLDL percentage,23584,Phospholipids to Total Lipids in Very Large VLDL percentage,TRUE,300
+23904,Phospholipids to Total Lipids in Very Small VLDL percentage,23604,Phospholipids to Total Lipids in Very Small VLDL percentage,TRUE,300
+23746,Polyunsaturated Fatty Acids,23446,Polyunsaturated Fatty Acids,TRUE,300
+23758,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio,23458,Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio,TRUE,300
+23753,Polyunsaturated Fatty Acids to Total Fatty Acids percentage,23453,Polyunsaturated Fatty Acids to Total Fatty Acids percentage,TRUE,300
+23772,Pyruvate,23472,Pyruvate,TRUE,300
+23702,Remnant Cholesterol (Non-HDL and Non-LDL -Cholesterol),23402,Remnant Cholesterol (Non-HDL and Non-LDL -Cholesterol),FALSE,300
+23748,Saturated Fatty Acids,23448,Saturated Fatty Acids,TRUE,300
+23755,Saturated Fatty Acids to Total Fatty Acids percentage,23455,Saturated Fatty Acids to Total Fatty Acids percentage,TRUE,300
+23738,Sphingomyelins,23438,Sphingomyelins,TRUE,300
+23700,Total Cholesterol,23400,Total Cholesterol,TRUE,300
+23701,Total Cholesterol Minus HDL-C,23401,Total Cholesterol Minus HDL-C,TRUE,300
+23736,Total Cholines,23436,Total Cholines,TRUE,300
+23764,Total Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine),23464,Total Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine),TRUE,300
+23727,Total Concentration of Lipoprotein Particles,23427,Total Concentration of Lipoprotein Particles,TRUE,300
+23715,Total Esterified Cholesterol,23415,Total Esterified Cholesterol,TRUE,300
+23742,Total Fatty Acids,23442,Total Fatty Acids,TRUE,300
+23719,Total Free Cholesterol,23419,Total Free Cholesterol,TRUE,300
+23782,Total Lipids in Chylomicrons and Extremely Large VLDL,23482,Total Lipids in Chylomicrons and Extremely Large VLDL,TRUE,300
+23726,Total Lipids in HDL,23426,Total Lipids in HDL,TRUE,300
+23824,Total Lipids in IDL,23524,Total Lipids in IDL,TRUE,300
+23859,Total Lipids in Large HDL,23559,Total Lipids in Large HDL,TRUE,300
+23831,Total Lipids in Large LDL,23531,Total Lipids in Large LDL,TRUE,300
+23796,Total Lipids in Large VLDL,23496,Total Lipids in Large VLDL,TRUE,300
+23725,Total Lipids in LDL,23425,Total Lipids in LDL,TRUE,300
+23723,Total Lipids in Lipoprotein Particles,23423,Total Lipids in Lipoprotein Particles,TRUE,300
+23866,Total Lipids in Medium HDL,23566,Total Lipids in Medium HDL,TRUE,300
+23838,Total Lipids in Medium LDL,23538,Total Lipids in Medium LDL,TRUE,300
+23803,Total Lipids in Medium VLDL,23503,Total Lipids in Medium VLDL,TRUE,300
+23873,Total Lipids in Small HDL,23573,Total Lipids in Small HDL,TRUE,300
+23845,Total Lipids in Small LDL,23545,Total Lipids in Small LDL,TRUE,300
+23810,Total Lipids in Small VLDL,23510,Total Lipids in Small VLDL,TRUE,300
+23852,Total Lipids in Very Large HDL,23552,Total Lipids in Very Large HDL,TRUE,300
+23789,Total Lipids in Very Large VLDL,23489,Total Lipids in Very Large VLDL,TRUE,300
+23817,Total Lipids in Very Small VLDL,23517,Total Lipids in Very Small VLDL,TRUE,300
+23724,Total Lipids in VLDL,23424,Total Lipids in VLDL,TRUE,300
+23711,Total Phospholipids in Lipoprotein Particles,23411,Total Phospholipids in Lipoprotein Particles,TRUE,300
+23707,Total Triglycerides,23407,Total Triglycerides,TRUE,300
+23787,Triglycerides in Chylomicrons and Extremely Large VLDL,23487,Triglycerides in Chylomicrons and Extremely Large VLDL,TRUE,300
+23710,Triglycerides in HDL,23410,Triglycerides in HDL,TRUE,300
+23829,Triglycerides in IDL,23529,Triglycerides in IDL,TRUE,300
+23864,Triglycerides in Large HDL,23564,Triglycerides in Large HDL,TRUE,300
+23836,Triglycerides in Large LDL,23536,Triglycerides in Large LDL,TRUE,300
+23801,Triglycerides in Large VLDL,23501,Triglycerides in Large VLDL,TRUE,300
+23709,Triglycerides in LDL,23409,Triglycerides in LDL,TRUE,300
+23871,Triglycerides in Medium HDL,23571,Triglycerides in Medium HDL,TRUE,300
+23843,Triglycerides in Medium LDL,23543,Triglycerides in Medium LDL,TRUE,300
+23808,Triglycerides in Medium VLDL,23508,Triglycerides in Medium VLDL,TRUE,300
+23878,Triglycerides in Small HDL,23578,Triglycerides in Small HDL,TRUE,300
+23850,Triglycerides in Small LDL,23550,Triglycerides in Small LDL,TRUE,300
+23815,Triglycerides in Small VLDL,23515,Triglycerides in Small VLDL,TRUE,300
+23857,Triglycerides in Very Large HDL,23557,Triglycerides in Very Large HDL,TRUE,300
+23794,Triglycerides in Very Large VLDL,23494,Triglycerides in Very Large VLDL,TRUE,300
+23822,Triglycerides in Very Small VLDL,23522,Triglycerides in Very Small VLDL,TRUE,300
+23708,Triglycerides in VLDL,23408,Triglycerides in VLDL,TRUE,300
+23735,Triglycerides to Phosphoglycerides ratio,23435,Triglycerides to Phosphoglycerides ratio,TRUE,300
+23883,Triglycerides to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,23583,Triglycerides to Total Lipids in Chylomicrons and Extremely Large VLDL percentage,TRUE,300
+23913,Triglycerides to Total Lipids in IDL percentage,23613,Triglycerides to Total Lipids in IDL percentage,TRUE,300
+23938,Triglycerides to Total Lipids in Large HDL percentage,23638,Triglycerides to Total Lipids in Large HDL percentage,TRUE,300
+23918,Triglycerides to Total Lipids in Large LDL percentage,23618,Triglycerides to Total Lipids in Large LDL percentage,TRUE,300
+23893,Triglycerides to Total Lipids in Large VLDL percentage,23593,Triglycerides to Total Lipids in Large VLDL percentage,TRUE,300
+23943,Triglycerides to Total Lipids in Medium HDL percentage,23643,Triglycerides to Total Lipids in Medium HDL percentage,TRUE,300
+23923,Triglycerides to Total Lipids in Medium LDL percentage,23623,Triglycerides to Total Lipids in Medium LDL percentage,TRUE,300
+23898,Triglycerides to Total Lipids in Medium VLDL percentage,23598,Triglycerides to Total Lipids in Medium VLDL percentage,TRUE,300
+23948,Triglycerides to Total Lipids in Small HDL percentage,23648,Triglycerides to Total Lipids in Small HDL percentage,TRUE,300
+23928,Triglycerides to Total Lipids in Small LDL percentage,23628,Triglycerides to Total Lipids in Small LDL percentage,TRUE,300
+23903,Triglycerides to Total Lipids in Small VLDL percentage,23603,Triglycerides to Total Lipids in Small VLDL percentage,TRUE,300
+23933,Triglycerides to Total Lipids in Very Large HDL percentage,23633,Triglycerides to Total Lipids in Very Large HDL percentage,TRUE,300
+23888,Triglycerides to Total Lipids in Very Large VLDL percentage,23588,Triglycerides to Total Lipids in Very Large VLDL percentage,TRUE,300
+23908,Triglycerides to Total Lipids in Very Small VLDL percentage,23608,Triglycerides to Total Lipids in Very Small VLDL percentage,TRUE,300
+23769,Tyrosine,23469,Tyrosine,TRUE,300
+23767,Valine,23467,Valine,TRUE,300
+23703,VLDL Cholesterol,23403,VLDL Cholesterol,TRUE,300
